@@ -9,7 +9,7 @@ kernel5 = np.array([[-1,-1,-1,-1,-1],
                    [-1, 1, 2, 1,-1],
                    [-1,-1,-1,-1,-1]])
 
-img = cv2.imread('../img/lufei1.jpg', 0)
+img = cv2.imread('../img/lufei2.jpg', 0)
 k3 = ndimage.convolve(img, kernel3)
 k5 = ndimage.convolve(img, kernel5)
 
