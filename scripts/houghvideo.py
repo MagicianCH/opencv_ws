@@ -26,15 +26,24 @@ if __name__ == '__main__':
             continue
         num,b,c = lines.shape
         cnt = 0
+        xl = 0
+        xr = 0
         for i in range(num):
             for x1,y1,x2,y2 in lines[i]:
                 if x1 != x2 and y1 > 200 and y2 > 200:
                     k = (y1-y2)/(x1-x2)
                     a = (math.atan(k)+math.pi) % math.pi 
-                    if (a > math.radians(55)  and a < math.radians(75)) \
-                       or (a > math.radians(105) and a < math.radians(125)):
+                    if(a > math.radians(55) and a < math.radians(75) and x1 > 320 and x2 > 320):
+                        cv2.line(frame, (x1, y1), (x2, y2), (0,255,0), 3)
+                        cnt += 1
+                        xl = (x1+x2)/2
+                    if(a > math.radians(105) and a < math.radians(125) and x1 < 320 and x2 < 320):
                         cv2.line(frame, (x1,y1), (x2,y2), (0,0,255), 3)
                         cnt += 1
+                        xr = (x1+x2)/2
+        if xl and xr:                
+            x = int((xl + xr)/2)
+            cv2.line(frame, (x, 0), (x, 480), (255,0,0), 3)
         cv2.imshow("img", frame) 
         if cv2.waitKey(10) & 0xFF == ord('q'):
             break
