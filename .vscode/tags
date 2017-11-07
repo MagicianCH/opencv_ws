@@ -1,0 +1,525 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+API_KEY	../scripts/aip_test.py	/^API_KEY = "iM5PbNMlEAoYQOLj7jyRWwNK"$/;"	kind:variable	line:4
+APP_ID	../scripts/aip_test.py	/^APP_ID = "9865961"$/;"	kind:variable	line:3
+EPOCHS	../demo/Chapter_9_Code/animals_ann.py	/^EPOCHS = 2$/;"	kind:variable	line:65
+FLANN_INDEX_KDTREE	../demo/Chapter_5_Code/depth.py	/^FLANN_INDEX_KDTREE = 0$/;"	kind:variable	line:45
+FLANN_INDEX_KDTREE	../demo/Chapter_6_Code/homography.py	/^FLANN_INDEX_KDTREE = 0$/;"	kind:variable	line:17
+FLANN_INDEX_KDTREE	../demo/Chapter_6_Code/scan_for_matches.py	/^FLANN_INDEX_KDTREE = 0$/;"	kind:variable	line:27
+MIN_MATCH_COUNT	../demo/Chapter_6_Code/homography.py	/^MIN_MATCH_COUNT = 10$/;"	kind:variable	line:5
+MIN_MATCH_COUNT	../demo/Chapter_6_Code/scan_for_matches.py	/^MIN_MATCH_COUNT = 10$/;"	kind:variable	line:33
+P1	../demo/Chapter_5_Code/disparity.py	/^        P1 = P1,$/;"	kind:variable	line:45
+P1	../demo/Chapter_5_Code/disparity.py	/^    P1 = 600$/;"	kind:variable	line:27
+P1	../demo/Chapter_5_Code/disparity_video.py	/^        P1 = 8*3*blockSize**2,$/;"	kind:variable	line:31
+P2	../demo/Chapter_5_Code/disparity.py	/^        P2 = P2$/;"	kind:variable	line:46
+P2	../demo/Chapter_5_Code/disparity.py	/^    P2 = 2400$/;"	kind:variable	line:28
+P2	../demo/Chapter_5_Code/disparity_video.py	/^        P2 = 32*3*blockSize**2)$/;"	kind:variable	line:32
+Pedestrian	../demo/Chapter_8_Code/surveillance_demo/main.py	/^class Pedestrian():$/;"	kind:class	line:34
+RECORDS	../demo/Chapter_9_Code/animals_ann.py	/^RECORDS = 5000$/;"	kind:variable	line:58
+SAMPLES	../demo/Chapter_7_Code/car_detector/detector.py	/^SAMPLES = 400$/;"	kind:variable	line:5
+SECRET_KEY	../scripts/aip_test.py	/^SECRET_KEY = "CLmVFow9bje90mqisNQQXVgonsPb4N34"$/;"	kind:variable	line:5
+TESTS	../demo/Chapter_9_Code/animals_ann.py	/^TESTS = 100$/;"	kind:variable	line:72
+__author__	../demo/Chapter_8_Code/surveillance_demo/main.py	/^__author__ = "joe minichino"$/;"	kind:variable	line:8
+__copyright__	../demo/Chapter_8_Code/surveillance_demo/main.py	/^__copyright__ = "property of mankind."$/;"	kind:variable	line:9
+__del__	../demo/Chapter_8_Code/surveillance_demo/main.py	/^  def __del__(self):$/;"	kind:member	line:61
+__email__	../demo/Chapter_8_Code/surveillance_demo/main.py	/^__email__ = "joe.minichino@gmail.com"$/;"	kind:variable	line:13
+__init__	../demo/Chapter_8_Code/surveillance_demo/main.py	/^  def __init__(self, id, frame, track_window):$/;"	kind:member	line:40
+__init__.py	../demo/Chapter_7_Code/car_detector/__init__.py	1;"	kind:file	line:1
+__license__	../demo/Chapter_8_Code/surveillance_demo/main.py	/^__license__ = "MIT"$/;"	kind:variable	line:10
+__maintainer__	../demo/Chapter_8_Code/surveillance_demo/main.py	/^__maintainer__ = "Joe Minichino"$/;"	kind:variable	line:12
+__status__	../demo/Chapter_8_Code/surveillance_demo/main.py	/^__status__ = "Development"$/;"	kind:variable	line:14
+__version__	../demo/Chapter_8_Code/surveillance_demo/main.py	/^__version__ = "0.0.1"$/;"	kind:variable	line:11
+a	../demo/Chapter_9_Code/digits_image_process.py	/^  a = cv2.contourArea(c)$/;"	kind:variable	line:44
+a	../demo/Chapter_9_Code/simple_ann2.py	/^a = net.activate((1,0,0,0))$/;"	kind:variable	line:36
+a	../scripts/houghvideo.py	/^                    a = (math.atan(k)+math.pi) % math.pi $/;"	kind:variable	line:35
+aipFace	../scripts/aip_test.py	/^aipFace = AipFace(APP_ID, API_KEY, SECRET_KEY)$/;"	kind:variable	line:7
+aip_test.py	../scripts/aip_test.py	1;"	kind:file	line:1
+alg	../demo/Chapter_6_Code/feat_det.py	/^alg = sys.argv[2]$/;"	kind:variable	line:7
+animals_ann.py	../demo/Chapter_9_Code/animals_ann.py	1;"	kind:file	line:1
+animals_net	../demo/Chapter_9_Code/animals_ann.py	/^animals_net = cv2.ml.ANN_MLP_create()$/;"	kind:variable	line:5
+ann	../demo/Chapter_9_Code/basic_ann.py	/^ann = cv2.ml.ANN_MLP_create()$/;"	kind:variable	line:5
+ann	../demo/Chapter_9_Code/simple_ann.py	/^ann = cv2.ml.ANN_MLP_create()$/;"	kind:variable	line:4
+approx	../demo/Chapter_3_Code/contours_hull.py	/^  approx = cv2.approxPolyDP(cnt,epsilon,True)$/;"	kind:variable	line:13
+area	../demo/Chapter_7_Code/car_detector/non_maximum.py	/^def area(box):$/;"	kind:function	line:4
+args	../demo/Chapter_8_Code/surveillance_demo/main.py	/^args = vars(parser.parse_args())$/;"	kind:variable	line:24
+b	../demo/Chapter_9_Code/digits_image_process.py	/^  b = (img.shape[0]-3) * (img.shape[1] - 3)$/;"	kind:variable	line:45
+b	../demo/Chapter_9_Code/simple_ann2.py	/^b = net.activate((0,1,0,0))$/;"	kind:variable	line:37
+ba	../scripts/pgm.py	/^ba = bytearray(os.urandom(1000000))$/;"	kind:variable	line:5
+background	../demo/Chapter_8_Code/basic_motion_detection.py	/^    background = cv2.GaussianBlur(background, (21, 21), 0)$/;"	kind:variable	line:14
+background	../demo/Chapter_8_Code/basic_motion_detection.py	/^    background = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)$/;"	kind:variable	line:13
+background	../demo/Chapter_8_Code/basic_motion_detection.py	/^background = None$/;"	kind:variable	line:8
+basic_ann.py	../demo/Chapter_9_Code/basic_ann.py	1;"	kind:file	line:1
+basic_motion_detection.py	../demo/Chapter_8_Code/basic_motion_detection.py	1;"	kind:file	line:1
+bgdModel	../demo/Chapter_5_Code/segmentation.py	/^bgdModel = np.zeros((1,65),np.float64)$/;"	kind:variable	line:8
+black	../demo/Chapter_3_Code/contours_hull.py	/^black = cv2.cvtColor(np.zeros((img.shape[1], img.shape[0]), dtype=np.uint8), cv2.COLOR_GRAY2BGR)$/;"	kind:variable	line:7
+blockSize	../demo/Chapter_5_Code/disparity.py	/^        blockSize = window_size,$/;"	kind:variable	line:40
+blockSize	../demo/Chapter_5_Code/disparity.py	/^    blockSize = window_size$/;"	kind:variable	line:22
+blockSize	../demo/Chapter_5_Code/disparity_video.py	/^        blockSize=15,$/;"	kind:variable	line:26
+blockSize	../demo/Chapter_5_Code/disparity_video.py	/^blockSize = 40$/;"	kind:variable	line:13
+blockSize	../demo/Chapter_8_Code/lk.py	/^                       blockSize = 7 )$/;"	kind:variable	line:10
+blurred	../demo/Chapter_3_Code/hpf.py	/^blurred = cv2.GaussianBlur(img, (17,17), 0)$/;"	kind:variable	line:20
+blurred	../scripts/hpf.py	/^blurred = cv2.GaussianBlur(img, (11,11), 0)$/;"	kind:variable	line:16
+bow_features	../demo/Chapter_7_Code/car_detector/detector.py	/^def bow_features(img, extractor_bow, detector):$/;"	kind:function	line:24
+bow_features	../demo/Chapter_7_Code/detect_hog_svm.py	/^def bow_features(fn):$/;"	kind:function	line:32
+bow_kmeans_trainer	../demo/Chapter_7_Code/detect_hog_svm.py	/^bow_kmeans_trainer = cv2.BOWKMeansTrainer(40)$/;"	kind:variable	line:18
+box	../demo/Chapter_3_Code/contours_2.py	/^  box = cv2.boxPoints(rect)$/;"	kind:variable	line:17
+box	../demo/Chapter_3_Code/contours_2.py	/^  box = np.int0(box)$/;"	kind:variable	line:19
+boxes	../demo/Chapter_7_Code/car_sliding_windows.py	/^boxes = nms(windows, 0.25)$/;"	kind:variable	line:53
+brief	../demo/Chapter_6_Code/brief.py	/^brief = cv2.DescriptorExtractor_create("BRIEF")$/;"	kind:variable	line:13
+brief.py	../demo/Chapter_6_Code/brief.py	1;"	kind:file	line:1
+bs	../demo/Chapter_8_Code/mog.py	/^bs = cv2.createBackgroundSubtractorKNN(detectShadows = True)$/;"	kind:variable	line:4
+bw	../demo/Chapter_9_Code/digits_image_process.py	/^bw = cv2.GaussianBlur(bw, (7,7), 0)$/;"	kind:variable	line:35
+bw	../demo/Chapter_9_Code/digits_image_process.py	/^bw = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)$/;"	kind:variable	line:34
+c	../demo/Chapter_9_Code/simple_ann2.py	/^c = net.activate((0,0,0,1))$/;"	kind:variable	line:38
+camera	../demo/Chapter_3_Code/skin.py	/^camera = cv2.VideoCapture(0)$/;"	kind:variable	line:4
+camera	../demo/Chapter_8_Code/basic_motion_detection.py	/^camera = cv2.VideoCapture(0)$/;"	kind:variable	line:4
+camera	../demo/Chapter_8_Code/hist.py	/^camera = cv2.VideoCapture(0)$/;"	kind:variable	line:5
+camera	../demo/Chapter_8_Code/knn.py	/^camera = cv2.VideoCapture("\/home\/d3athmast3r\/Downloads\/traffic.flv")$/;"	kind:variable	line:6
+camera	../demo/Chapter_8_Code/mog.py	/^camera = cv2.VideoCapture("movie.mpg")$/;"	kind:variable	line:5
+camera	../scripts/camera.py	/^def camera():$/;"	kind:function	line:4
+camera	../scripts/houghvideo.py	/^    camera = cv2.VideoCapture(0)$/;"	kind:variable	line:16
+camera.py	../scripts/camera.py	1;"	kind:file	line:1
+camshift.py	../demo/Chapter_8_Code/camshift.py	1;"	kind:file	line:1
+canny.py	../demo/Chapter_3_Code/canny.py	1;"	kind:file	line:1
+cap	../demo/Chapter_8_Code/camshift.py	/^cap = cv2.VideoCapture(0)$/;"	kind:variable	line:4
+cap	../demo/Chapter_8_Code/kalman_camshift.py	/^cap = cv2.VideoCapture(0)$/;"	kind:variable	line:4
+cap	../demo/Chapter_8_Code/lk.py	/^cap = cv2.VideoCapture(0)$/;"	kind:variable	line:4
+cap	../demo/Chapter_8_Code/meanshift.py	/^cap = cv2.VideoCapture(0)$/;"	kind:variable	line:4
+car_detector	../demo/Chapter_7_Code/car_detector/detector.py	/^def car_detector():$/;"	kind:function	line:27
+car_img	../demo/Chapter_7_Code/detect_hog_svm.py	/^car_img = cv2.imread(car)$/;"	kind:variable	line:52
+car_predict	../demo/Chapter_7_Code/detect_hog_svm.py	/^car_predict = predict(car)$/;"	kind:variable	line:54
+car_sliding_windows.py	../demo/Chapter_7_Code/car_sliding_windows.py	1;"	kind:file	line:1
+center	../demo/Chapter_3_Code/contours_2.py	/^  center = (int(x),int(y))$/;"	kind:variable	line:26
+center	../demo/Chapter_8_Code/kalman_camshift.py	/^def center(points):$/;"	kind:function	line:29
+center	../demo/Chapter_8_Code/surveillance_demo/main.py	/^def center(points):$/;"	kind:function	line:26
+cimg	../demo/Chapter_3_Code/hough_circles.py	/^cimg = cv2.cvtColor(img,cv2.COLOR_GRAY2BGR)$/;"	kind:variable	line:7
+circles	../demo/Chapter_3_Code/hough_circles.py	/^circles = cv2.HoughCircles(img,cv2.HOUGH_GRADIENT,1,120,$/;"	kind:variable	line:9
+circles	../demo/Chapter_3_Code/hough_circles.py	/^circles = np.uint16(np.around(circles))$/;"	kind:variable	line:12
+clas	../demo/Chapter_9_Code/animals_ann.py	/^  clas = int(animals_net.predict(np.array([condor_sample()], dtype=np.float32))[0])$/;"	kind:variable	line:82
+clas	../demo/Chapter_9_Code/animals_ann.py	/^  clas = int(animals_net.predict(np.array([dolphin_sample()], dtype=np.float32))[0])$/;"	kind:variable	line:89
+clas	../demo/Chapter_9_Code/animals_ann.py	/^  clas = int(animals_net.predict(np.array([dragon_sample()], dtype=np.float32))[0])$/;"	kind:variable	line:96
+classifier	../demo/Chapter_9_Code/digit_recognition.py	/^classifier = svm.SVC(gamma=0.001)$/;"	kind:variable	line:31
+cnt	../scripts/houghvideo.py	/^        cnt = 0$/;"	kind:variable	line:28
+color	../demo/Chapter_3_Code/contours.py	/^color = cv2.cvtColor(img, cv2.COLOR_GRAY2BGR)$/;"	kind:variable	line:9
+color	../demo/Chapter_8_Code/hist.py	/^  color = ('b','g','r')$/;"	kind:variable	line:9
+color	../demo/Chapter_8_Code/lk.py	/^color = np.random.randint(0,255,(100,3))$/;"	kind:variable	line:18
+condor_class	../demo/Chapter_9_Code/animals_ann.py	/^def condor_class():$/;"	kind:function	line:28
+condor_results	../demo/Chapter_9_Code/animals_ann.py	/^condor_results = 0$/;"	kind:variable	line:80
+condor_sample	../demo/Chapter_9_Code/animals_ann.py	/^def condor_sample():$/;"	kind:function	line:25
+contours.py	../demo/Chapter_3_Code/contours.py	1;"	kind:file	line:1
+contours_2.py	../demo/Chapter_3_Code/contours_2.py	1;"	kind:file	line:1
+contours_hull.py	../demo/Chapter_3_Code/contours_hull.py	1;"	kind:file	line:1
+counter	../demo/Chapter_7_Code/car_sliding_windows.py	/^counter = 1$/;"	kind:variable	line:25
+create_ANN	../demo/Chapter_9_Code/digits_ann.py	/^def create_ANN(hidden = 20):$/;"	kind:function	line:37
+create_descriptors	../demo/Chapter_6_Code/generate_descriptors.py	/^def create_descriptors(folder):$/;"	kind:function	line:8
+criteria	../demo/Chapter_8_Code/lk.py	/^                  criteria = (cv2.TERM_CRITERIA_EPS | cv2.TERM_CRITERIA_COUNT, 10, 0.03))$/;"	kind:variable	line:15
+data	../demo/Chapter_9_Code/digit_recognition.py	/^data = digits.images.reshape((n_samples, -1))$/;"	kind:variable	line:28
+datapath	../demo/Chapter_7_Code/car_detector/detector.py	/^datapath = "\/home\/d3athmast3r\/dev\/python\/CarData\/TrainImages\/"$/;"	kind:variable	line:4
+datapath	../demo/Chapter_7_Code/detect_hog_svm.py	/^datapath = "\/home\/d3athmast3r\/dev\/python\/CarData\/TrainImages\/"$/;"	kind:variable	line:6
+dataset	../demo/Chapter_9_Code/simple_ann2.py	/^dataset = SupervisedDataSet(4,3)$/;"	kind:variable	line:25
+depth.py	../demo/Chapter_5_Code/depth.py	1;"	kind:file	line:1
+descriptors	../demo/Chapter_6_Code/scan_for_matches.py	/^descriptors = []$/;"	kind:variable	line:14
+detect	../demo/Chapter_7_Code/car_sliding_windows.py	/^detect = cv2.xfeatures2d.SIFT_create()$/;"	kind:variable	line:18
+detect	../demo/Chapter_7_Code/detect_hog_svm.py	/^detect = cv2.xfeatures2d.SIFT_create()$/;"	kind:variable	line:12
+detect	../scripts/face_detection.py	/^def detect(ser):$/;"	kind:function	line:21
+detect_hog_svm.py	../demo/Chapter_7_Code/detect_hog_svm.py	1;"	kind:file	line:1
+detector.py	../demo/Chapter_7_Code/car_detector/detector.py	1;"	kind:file	line:1
+diff	../demo/Chapter_8_Code/basic_motion_detection.py	/^  diff = cv2.absdiff(background, gray_frame)$/;"	kind:variable	line:19
+diff	../demo/Chapter_8_Code/basic_motion_detection.py	/^  diff = cv2.dilate(diff, es, iterations = 2)$/;"	kind:variable	line:21
+diff	../demo/Chapter_8_Code/basic_motion_detection.py	/^  diff = cv2.threshold(diff, 25, 255, cv2.THRESH_BINARY)[1]$/;"	kind:variable	line:20
+digit_class	../demo/Chapter_9_Code/digits_image_process.py	/^    digit_class = int(ANN.predict(ann, roi.copy())[0])$/;"	kind:variable	line:62
+digit_recognition.py	../demo/Chapter_9_Code/digit_recognition.py	1;"	kind:file	line:1
+digits	../demo/Chapter_9_Code/digit_recognition.py	/^digits = datasets.load_digits()$/;"	kind:variable	line:12
+digits_ann.py	../demo/Chapter_9_Code/digits_ann.py	1;"	kind:file	line:1
+digits_image_process.py	../demo/Chapter_9_Code/digits_image_process.py	1;"	kind:file	line:1
+dilated	../demo/Chapter_8_Code/mog.py	/^  dilated = cv2.dilate(th, cv2.getStructuringElement(cv2.MORPH_ELLIPSE, (8,3)), iterations = 2)$/;"	kind:variable	line:12
+dir	../demo/Chapter_6_Code/generate_descriptors.py	/^dir = sys.argv[1]$/;"	kind:variable	line:24
+disp12MaxDiff	../demo/Chapter_5_Code/disparity.py	/^        disp12MaxDiff = disp12MaxDiff,$/;"	kind:variable	line:44
+disp12MaxDiff	../demo/Chapter_5_Code/disparity.py	/^    disp12MaxDiff = 200$/;"	kind:variable	line:26
+disp12MaxDiff	../demo/Chapter_5_Code/disparity_video.py	/^        disp12MaxDiff = 1,$/;"	kind:variable	line:30
+disparity	../demo/Chapter_5_Code/disparity_video.py	/^    disparity = cv2.normalize(disparity, disparity, alpha=0, beta=255, norm_type=cv2.NORM_MINMAX, dtype=cv2.CV_8U)$/;"	kind:variable	line:34
+disparity	../demo/Chapter_5_Code/disparity_video.py	/^    disparity = stereo.compute(gray_left, gray_right)$/;"	kind:variable	line:33
+disparity.py	../demo/Chapter_5_Code/disparity.py	1;"	kind:file	line:1
+disparity_video.py	../demo/Chapter_5_Code/disparity_video.py	1;"	kind:file	line:1
+dist_transform	../demo/Chapter_5_Code/watershed.py	/^dist_transform = cv2.distanceTransform(opening,cv2.DIST_L2,5)$/;"	kind:variable	line:16
+dog_class	../demo/Chapter_9_Code/animals_ann.py	/^def dog_class():$/;"	kind:function	line:22
+dog_results	../demo/Chapter_9_Code/animals_ann.py	/^dog_results = 0$/;"	kind:variable	line:73
+dog_sample	../demo/Chapter_9_Code/animals_ann.py	/^def dog_sample():$/;"	kind:function	line:19
+dolphin_class	../demo/Chapter_9_Code/animals_ann.py	/^def dolphin_class():$/;"	kind:function	line:34
+dolphin_results	../demo/Chapter_9_Code/animals_ann.py	/^dolphin_results = 0$/;"	kind:variable	line:87
+dolphin_sample	../demo/Chapter_9_Code/animals_ann.py	/^def dolphin_sample():$/;"	kind:function	line:31
+dragon_class	../demo/Chapter_9_Code/animals_ann.py	/^def dragon_class():$/;"	kind:function	line:40
+dragon_results	../demo/Chapter_9_Code/animals_ann.py	/^dragon_results = 0$/;"	kind:variable	line:94
+dragon_sample	../demo/Chapter_9_Code/animals_ann.py	/^def dragon_sample():$/;"	kind:function	line:37
+drawCnt	../demo/Chapter_8_Code/knn.py	/^def drawCnt(fn, cnt):$/;"	kind:function	line:8
+drawParams	../demo/Chapter_6_Code/flann.py	/^drawParams = dict(matchColor = (0,255,0),$/;"	kind:variable	line:30
+draw_params	../demo/Chapter_6_Code/homography.py	/^draw_params = dict(matchColor = (0,255,0), # draw matches in green color$/;"	kind:variable	line:48
+draw_person	../demo/Chapter_7_Code/people_detect_hog.py	/^def draw_person(image, person):$/;"	kind:function	line:9
+drawlines	../demo/Chapter_5_Code/depth.py	/^def drawlines(img1,img2,lines,pts1,pts2):$/;"	kind:function	line:19
+dst	../demo/Chapter_6_Code/homography.py	/^    dst = cv2.perspectiveTransform(pts,M)$/;"	kind:variable	line:40
+dst	../demo/Chapter_8_Code/camshift.py	/^        dst = cv2.calcBackProject([hsv],[0],roi_hist,[0,180],1)$/;"	kind:variable	line:26
+dst	../demo/Chapter_8_Code/kalman_camshift.py	/^        dst = cv2.calcBackProject([hsv],[0],roi_hist,[0,180],1)$/;"	kind:variable	line:39
+dst	../demo/Chapter_8_Code/meanshift.py	/^        dst = cv2.calcBackProject([hsv],[0],roi_hist,[0,180],1)$/;"	kind:variable	line:30
+dst	../scripts/houghvideo.py	/^        dst = cv2.Canny(gray, 50, 200)$/;"	kind:variable	line:23
+dst_pts	../demo/Chapter_6_Code/homography.py	/^    dst_pts = np.float32([ kp2[m.trainIdx].pt for m in good ]).reshape(-1,1,2)$/;"	kind:variable	line:33
+edges	../demo/Chapter_3_Code/hough_lines.py	/^edges = cv2.Canny(gray,50,120)$/;"	kind:variable	line:6
+epsilon	../demo/Chapter_3_Code/contours_hull.py	/^  epsilon = 0.01 * cv2.arcLength(cnt,True)$/;"	kind:variable	line:12
+es	../demo/Chapter_8_Code/basic_motion_detection.py	/^es = cv2.getStructuringElement(cv2.MORPH_ELLIPSE, (10,10))$/;"	kind:variable	line:6
+es	../demo/Chapter_8_Code/knn.py	/^es = cv2.getStructuringElement(cv2.MORPH_ELLIPSE, (20,12))$/;"	kind:variable	line:5
+expected	../demo/Chapter_9_Code/digit_recognition.py	/^expected = digits.target[n_samples \/ 2:]$/;"	kind:variable	line:37
+extract	../demo/Chapter_7_Code/detect_hog_svm.py	/^extract = cv2.xfeatures2d.SIFT_create()$/;"	kind:variable	line:13
+extract_bow	../demo/Chapter_7_Code/detect_hog_svm.py	/^extract_bow = cv2.BOWImgDescriptorExtractor(extract, matcher)$/;"	kind:variable	line:19
+extract_sift	../demo/Chapter_7_Code/car_detector/detector.py	/^def extract_sift(fn, extractor, detector):$/;"	kind:function	line:20
+extract_sift	../demo/Chapter_7_Code/detect_hog_svm.py	/^def extract_sift(fn):$/;"	kind:function	line:21
+f	../demo/Chapter_3_Code/fourier.py	/^f = np.fft.fft2(img)$/;"	kind:variable	line:6
+f_ishift	../demo/Chapter_3_Code/fourier.py	/^f_ishift = np.fft.ifftshift(fshift)$/;"	kind:variable	line:14
+face_detection.py	../scripts/face_detection.py	1;"	kind:file	line:1
+fd	../demo/Chapter_6_Code/feat_det.py	/^def fd(algorithm):$/;"	kind:function	line:9
+fd_alg	../demo/Chapter_6_Code/feat_det.py	/^fd_alg = fd(alg)$/;"	kind:variable	line:19
+feat_det.py	../demo/Chapter_6_Code/feat_det.py	1;"	kind:file	line:1
+feature_params	../demo/Chapter_8_Code/lk.py	/^feature_params = dict( maxCorners = 100,$/;"	kind:variable	line:7
+fgdModel	../demo/Chapter_5_Code/segmentation.py	/^fgdModel = np.zeros((1,65),np.float64)$/;"	kind:variable	line:9
+fgmask	../demo/Chapter_8_Code/mog.py	/^  fgmask = bs.apply(frame)$/;"	kind:variable	line:9
+files	../demo/Chapter_6_Code/scan_for_matches.py	/^files = []$/;"	kind:variable	line:12
+flags	../demo/Chapter_6_Code/flann.py	/^                   flags = 0)$/;"	kind:variable	line:33
+flags	../demo/Chapter_6_Code/homography.py	/^                   flags = 2)$/;"	kind:variable	line:51
+flann	../demo/Chapter_5_Code/depth.py	/^flann = cv2.FlannBasedMatcher(index_params,search_params)$/;"	kind:variable	line:49
+flann	../demo/Chapter_6_Code/flann.py	/^flann = cv2.FlannBasedMatcher(indexParams,searchParams)$/;"	kind:variable	line:18
+flann	../demo/Chapter_6_Code/homography.py	/^flann = cv2.FlannBasedMatcher(index_params, search_params)$/;"	kind:variable	line:21
+flann	../demo/Chapter_6_Code/scan_for_matches.py	/^flann = cv2.FlannBasedMatcher(index_params, search_params)$/;"	kind:variable	line:30
+flann.py	../demo/Chapter_6_Code/flann.py	1;"	kind:file	line:1
+flann_params	../demo/Chapter_7_Code/detect_hog_svm.py	/^flann_params = dict(algorithm = 1, trees = 5)$/;"	kind:variable	line:15
+folder	../demo/Chapter_6_Code/scan_for_matches.py	/^folder = argv[1]$/;"	kind:variable	line:8
+font	../demo/Chapter_7_Code/car_sliding_windows.py	/^font = cv2.FONT_HERSHEY_PLAIN$/;"	kind:variable	line:28
+font	../demo/Chapter_7_Code/detect_hog_svm.py	/^font = cv2.FONT_HERSHEY_SIMPLEX$/;"	kind:variable	line:57
+font	../demo/Chapter_8_Code/surveillance_demo/main.py	/^font = cv2.FONT_HERSHEY_SIMPLEX$/;"	kind:variable	line:32
+font	../demo/Chapter_9_Code/digits_image_process.py	/^font = cv2.FONT_HERSHEY_SIMPLEX$/;"	kind:variable	line:29
+found_filtered	../demo/Chapter_7_Code/people_detect_hog.py	/^found_filtered = []$/;"	kind:variable	line:19
+fourier.py	../demo/Chapter_3_Code/fourier.py	1;"	kind:file	line:1
+frame	../demo/Chapter_8_Code/kalman.py	/^frame = np.zeros((800, 800, 3), np.uint8)$/;"	kind:variable	line:5
+frame	../demo/Chapter_8_Code/lk.py	/^        frame = cv2.circle(frame,(a,b),5,color[i].tolist(),-1)$/;"	kind:variable	line:44
+frame	../scripts/ip_video_test.py	/^    frame = cv2.imdecode(frame, cv2.IMREAD_COLOR)$/;"	kind:variable	line:9
+frame	../scripts/ip_video_test.py	/^    frame = np.asarray(bytearray(resp.read()), dtype="uint8")$/;"	kind:variable	line:8
+frame_gray	../demo/Chapter_8_Code/lk.py	/^    frame_gray = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)$/;"	kind:variable	line:30
+fshift	../demo/Chapter_3_Code/fourier.py	/^fshift = np.fft.fftshift(f)$/;"	kind:variable	line:7
+g_hpf	../demo/Chapter_3_Code/hpf.py	/^g_hpf = img - blurred$/;"	kind:variable	line:21
+g_hpf	../scripts/hpf.py	/^g_hpf = img - blurred$/;"	kind:variable	line:17
+generate	../demo/Chapter_6_Code/generate_train.py	/^def generate():$/;"	kind:function	line:4
+generate_descriptors.py	../demo/Chapter_6_Code/generate_descriptors.py	1;"	kind:file	line:1
+generate_train.py	../demo/Chapter_6_Code/generate_train.py	1;"	kind:file	line:1
+get_bow_extractor	../demo/Chapter_7_Code/car_detector/detector.py	/^def get_bow_extractor(extract, match):$/;"	kind:function	line:14
+get_extract_detect	../demo/Chapter_7_Code/car_detector/detector.py	/^def get_extract_detect():$/;"	kind:function	line:17
+get_file_content	../scripts/aip_test.py	/^def get_file_content(filepath):$/;"	kind:function	line:9
+get_flann_matcher	../demo/Chapter_7_Code/car_detector/detector.py	/^def get_flann_matcher():$/;"	kind:function	line:10
+good	../demo/Chapter_5_Code/depth.py	/^good = []$/;"	kind:variable	line:52
+good	../demo/Chapter_6_Code/homography.py	/^good = []$/;"	kind:variable	line:26
+good	../demo/Chapter_6_Code/scan_for_matches.py	/^  good = []$/;"	kind:variable	line:41
+gray	../demo/Chapter_3_Code/hough_lines.py	/^gray = cv2.cvtColor(img,cv2.COLOR_BGR2GRAY)$/;"	kind:variable	line:5
+gray	../demo/Chapter_5_Code/watershed.py	/^gray = cv2.cvtColor(img,cv2.COLOR_BGR2GRAY)$/;"	kind:variable	line:6
+gray	../demo/Chapter_6_Code/feat_det.py	/^gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)$/;"	kind:variable	line:17
+gray	../demo/Chapter_6_Code/sift.py	/^gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)$/;"	kind:variable	line:8
+gray	../scripts/houghvideo.py	/^        gray = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)$/;"	kind:variable	line:20
+grayImage	../scripts/pgm.py	/^grayImage = na.reshape(1000, 1000)$/;"	kind:variable	line:10
+gray_frame	../demo/Chapter_8_Code/basic_motion_detection.py	/^  gray_frame = cv2.GaussianBlur(gray_frame, (21, 21), 0)$/;"	kind:variable	line:18
+gray_frame	../demo/Chapter_8_Code/basic_motion_detection.py	/^  gray_frame = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)$/;"	kind:variable	line:17
+gray_img	../demo/Chapter_3_Code/hough_circles.py	/^gray_img = cv2.cvtColor(planets, cv2.COLOR_BGR2GRAY)$/;"	kind:variable	line:5
+gray_left	../demo/Chapter_5_Code/disparity_video.py	/^    gray_left = cv2.cvtColor(left_frame, cv2.COLOR_BGR2GRAY)$/;"	kind:variable	line:20
+gray_right	../demo/Chapter_5_Code/disparity_video.py	/^    gray_right = cv2.cvtColor(right_frame, cv2.COLOR_BGR2GRAY)$/;"	kind:variable	line:21
+h2o	../demo/Chapter_9_Code/simple_ann2.py	/^h2o = FullConnection(l_hid, l_out)$/;"	kind:variable	line:17
+handle_direction	../scripts/face_detection.py	/^def handle_direction(x,y, s):$/;"	kind:function	line:6
+help	../demo/Chapter_8_Code/surveillance_demo/main.py	/^    help = "m (or nothing) for meanShift and c for camshift")$/;"	kind:variable	line:23
+hist.py	../demo/Chapter_8_Code/hist.py	1;"	kind:file	line:1
+histr	../demo/Chapter_8_Code/hist.py	/^    histr = cv2.calcHist([img],[i],None,[256],[0,256])$/;"	kind:variable	line:11
+hog	../demo/Chapter_7_Code/people_detect_hog.py	/^hog = cv2.HOGDescriptor()$/;"	kind:variable	line:14
+homography.py	../demo/Chapter_6_Code/homography.py	1;"	kind:file	line:1
+hough_circles.py	../demo/Chapter_3_Code/hough_circles.py	1;"	kind:file	line:1
+hough_lines.py	../demo/Chapter_3_Code/hough_lines.py	1;"	kind:file	line:1
+houghvideo.py	../scripts/houghvideo.py	1;"	kind:file	line:1
+hpf.py	../demo/Chapter_3_Code/hpf.py	1;"	kind:file	line:1
+hpf.py	../scripts/hpf.py	1;"	kind:file	line:1
+hsv	../demo/Chapter_3_Code/skin.py	/^  hsv = cv2.cvtColor(frame, cv2.COLOR_BGR2HSV)$/;"	kind:variable	line:15
+hsv	../demo/Chapter_8_Code/camshift.py	/^        hsv = cv2.cvtColor(frame, cv2.COLOR_BGR2HSV)$/;"	kind:variable	line:25
+hsv	../demo/Chapter_8_Code/kalman_camshift.py	/^        hsv = cv2.cvtColor(frame, cv2.COLOR_BGR2HSV)$/;"	kind:variable	line:38
+hsv	../demo/Chapter_8_Code/meanshift.py	/^        hsv = cv2.cvtColor(frame, cv2.COLOR_BGR2HSV)$/;"	kind:variable	line:29
+hsv_roi	../demo/Chapter_8_Code/camshift.py	/^hsv_roi =  cv2.cvtColor(frame, cv2.COLOR_BGR2HSV)$/;"	kind:variable	line:15
+hsv_roi	../demo/Chapter_8_Code/kalman_camshift.py	/^hsv_roi =  cv2.cvtColor(frame, cv2.COLOR_BGR2HSV)$/;"	kind:variable	line:15
+hsv_roi	../demo/Chapter_8_Code/meanshift.py	/^hsv_roi =  cv2.cvtColor(frame, cv2.COLOR_BGR2HSV)$/;"	kind:variable	line:15
+hull	../demo/Chapter_3_Code/contours_hull.py	/^  hull = cv2.convexHull(cnt)$/;"	kind:variable	line:14
+i2h	../demo/Chapter_9_Code/simple_ann2.py	/^i2h = FullConnection(l_in, l_hid)$/;"	kind:variable	line:16
+images	../demo/Chapter_6_Code/scan_for_matches.py	/^images = []$/;"	kind:variable	line:13
+img	../demo/Chapter_3_Code/canny.py	/^img = cv2.imread("..\/images\/statue_small.jpg", 0)$/;"	kind:variable	line:4
+img	../demo/Chapter_3_Code/contours.py	/^img = cv2.drawContours(color, contours, -1, (0,255,0), 2)$/;"	kind:variable	line:10
+img	../demo/Chapter_3_Code/contours.py	/^img = np.zeros((200, 200), dtype=np.uint8)$/;"	kind:variable	line:4
+img	../demo/Chapter_3_Code/contours_2.py	/^  img = cv2.circle(img,center,radius,(0,255,0),2)$/;"	kind:variable	line:29
+img	../demo/Chapter_3_Code/contours_2.py	/^img = cv2.pyrDown(cv2.imread("hammer.jpg", cv2.IMREAD_UNCHANGED))$/;"	kind:variable	line:4
+img	../demo/Chapter_3_Code/contours_hull.py	/^img = cv2.pyrDown(cv2.imread("hammer.jpg", cv2.IMREAD_UNCHANGED))$/;"	kind:variable	line:4
+img	../demo/Chapter_3_Code/fourier.py	/^img = cv2.imread('..\/images\/bb.jpg', 0)$/;"	kind:variable	line:5
+img	../demo/Chapter_3_Code/hough_circles.py	/^img = cv2.medianBlur(gray_img, 5)$/;"	kind:variable	line:6
+img	../demo/Chapter_3_Code/hough_lines.py	/^img = cv2.imread('lines.jpg')$/;"	kind:variable	line:4
+img	../demo/Chapter_3_Code/hpf.py	/^img = cv2.imread("..\/images\/statue_small.jpg", 0)$/;"	kind:variable	line:15
+img	../demo/Chapter_5_Code/segmentation.py	/^img = cv2.imread('images\/mypic.jpg') # placeholder path, replace with your own$/;"	kind:variable	line:5
+img	../demo/Chapter_5_Code/segmentation.py	/^img = img*mask2[:,:,np.newaxis]$/;"	kind:variable	line:15
+img	../demo/Chapter_5_Code/watershed.py	/^img = cv2.imread('images\/basil.jpg')$/;"	kind:variable	line:5
+img	../demo/Chapter_6_Code/brief.py	/^img = cv2.imread('images\/coat_of_arms_single.jpg',0)$/;"	kind:variable	line:7
+img	../demo/Chapter_6_Code/feat_det.py	/^img = cv2.drawKeypoints(image=img, outImage=img, keypoints = keypoints, flags = 4, color = (51, 163, 236))$/;"	kind:variable	line:22
+img	../demo/Chapter_6_Code/feat_det.py	/^img = cv2.imread(imgpath)$/;"	kind:variable	line:6
+img	../demo/Chapter_6_Code/sift.py	/^img = cv2.drawKeypoints(image=img, outImage=img, keypoints = keypoints, flags = 4, color = (51, 163, 236))$/;"	kind:variable	line:13
+img	../demo/Chapter_6_Code/sift.py	/^img = cv2.imread(imgpath)$/;"	kind:variable	line:6
+img	../demo/Chapter_7_Code/car_sliding_windows.py	/^img = cv2.imread(img_path)$/;"	kind:variable	line:21
+img	../demo/Chapter_7_Code/people_detect_hog.py	/^img = cv2.imread("..\/images\/people.jpg")$/;"	kind:variable	line:13
+img	../demo/Chapter_8_Code/lk.py	/^    img = cv2.add(frame,mask)$/;"	kind:variable	line:45
+img	../demo/Chapter_9_Code/digits_image_process.py	/^img = cv2.imread(path, cv2.IMREAD_UNCHANGED)$/;"	kind:variable	line:33
+img	../scripts/hpf.py	/^img = cv2.imread('..\/img\/lufei2.jpg', 0)$/;"	kind:variable	line:12
+img1	../demo/Chapter_5_Code/depth.py	/^img1 = to_uint8(cv2.pyrDown(cv2.imread('.\/images\/stacked1.png', cv2.COLOR_BGR2GRAY)))  #queryimage # left image$/;"	kind:variable	line:35
+img1	../demo/Chapter_6_Code/homography.py	/^img1 = cv2.imread('anchors\/tattoo_seed.jpg',0)$/;"	kind:variable	line:7
+img2	../demo/Chapter_5_Code/depth.py	/^img2 = to_uint8(cv2.pyrDown(cv2.imread('.\/images\/stacked2.png', cv2.COLOR_BGR2GRAY))) #trainimage # right image$/;"	kind:variable	line:36
+img2	../demo/Chapter_6_Code/homography.py	/^    img2 = cv2.polylines(img2,[np.int32(dst)],True,255,3, cv2.LINE_AA)$/;"	kind:variable	line:42
+img2	../demo/Chapter_6_Code/homography.py	/^img2 = cv2.imread('anchors\/hush.jpg',0)$/;"	kind:variable	line:8
+img2	../demo/Chapter_8_Code/camshift.py	/^        img2 = cv2.polylines(frame,[pts],True, 255,2)$/;"	kind:variable	line:31
+img2	../demo/Chapter_8_Code/kalman_camshift.py	/^        img2 = cv2.polylines(frame,[pts],True, 255,2)$/;"	kind:variable	line:47
+img2	../demo/Chapter_8_Code/meanshift.py	/^        img2 = cv2.rectangle(frame, (x,y), (x+w,y+h), 255,2)$/;"	kind:variable	line:37
+img3	../demo/Chapter_6_Code/homography.py	/^img3 = cv2.drawMatches(img1,kp1,img2,kp2,good,None,**draw_params)$/;"	kind:variable	line:53
+imgL	../demo/Chapter_5_Code/disparity.py	/^    imgL = cv2.imread('images\/dis1.jpg')$/;"	kind:variable	line:29
+imgR	../demo/Chapter_5_Code/disparity.py	/^    imgR = cv2.imread('images\/dis2.jpg')$/;"	kind:variable	line:30
+img_back	../demo/Chapter_3_Code/fourier.py	/^img_back = np.abs(img_back)$/;"	kind:variable	line:16
+img_back	../demo/Chapter_3_Code/fourier.py	/^img_back = np.fft.ifft2(f_ishift)$/;"	kind:variable	line:15
+img_path	../demo/Chapter_7_Code/car_sliding_windows.py	/^img_path = "\/home\/d3athmast3r\/dev\/python\/study\/images\/test.jpg"$/;"	kind:variable	line:13
+imgpath	../demo/Chapter_6_Code/feat_det.py	/^imgpath = sys.argv[1]$/;"	kind:variable	line:5
+imgpath	../demo/Chapter_6_Code/sift.py	/^imgpath = sys.argv[1]$/;"	kind:variable	line:5
+in_range	../demo/Chapter_7_Code/car_sliding_windows.py	/^def in_range(number, test, thresh=0.2):$/;"	kind:function	line:9
+indexParams	../demo/Chapter_6_Code/flann.py	/^indexParams = dict(algorithm = 0, trees = 5)$/;"	kind:variable	line:15
+index_params	../demo/Chapter_5_Code/depth.py	/^index_params = dict(algorithm = FLANN_INDEX_KDTREE, trees = 5)$/;"	kind:variable	line:46
+index_params	../demo/Chapter_6_Code/homography.py	/^index_params = dict(algorithm = FLANN_INDEX_KDTREE, trees = 5)$/;"	kind:variable	line:18
+index_params	../demo/Chapter_6_Code/scan_for_matches.py	/^index_params = dict(algorithm = FLANN_INDEX_KDTREE, trees = 5)$/;"	kind:variable	line:28
+inside	../demo/Chapter_7_Code/car_detector/non_maximum.py	/^  def inside(a,b):$/;"	kind:function	line:18
+inside	../demo/Chapter_9_Code/digits_image_process.py	/^def inside(r1, r2):$/;"	kind:function	line:5
+ip_video_test.py	../scripts/ip_video_test.py	1;"	kind:file	line:1
+is_inside	../demo/Chapter_7_Code/car_detector/non_maximum.py	/^def is_inside(rec1, rec2):$/;"	kind:function	line:17
+is_inside	../demo/Chapter_7_Code/people_detect_hog.py	/^def is_inside(o, i):$/;"	kind:function	line:4
+is_inside	../demo/Chapter_9_Code/digits_image_process.py	/^      is_inside = True$/;"	kind:variable	line:50
+is_inside	../demo/Chapter_9_Code/digits_image_process.py	/^  is_inside = False$/;"	kind:variable	line:47
+k	../demo/Chapter_8_Code/camshift.py	/^        k = cv2.waitKey(60) & 0xff$/;"	kind:variable	line:34
+k	../demo/Chapter_8_Code/kalman_camshift.py	/^        k = cv2.waitKey(60) & 0xff$/;"	kind:variable	line:51
+k	../demo/Chapter_8_Code/lk.py	/^    k = cv2.waitKey(30) & 0xff$/;"	kind:variable	line:48
+k	../demo/Chapter_8_Code/meanshift.py	/^        k = cv2.waitKey(60) & 0xff$/;"	kind:variable	line:40
+k	../demo/Chapter_8_Code/mog.py	/^  k = cv2.waitKey(30) & 0xff$/;"	kind:variable	line:23
+k	../scripts/houghvideo.py	/^                    k = (y1-y2)\/(x1-x2)$/;"	kind:variable	line:34
+k3	../demo/Chapter_3_Code/hpf.py	/^k3 = ndimage.convolve(img, kernel_3x3)$/;"	kind:variable	line:17
+k3	../scripts/hpf.py	/^k3 = ndimage.convolve(img, kernel3)$/;"	kind:variable	line:13
+k5	../demo/Chapter_3_Code/hpf.py	/^k5 = ndimage.convolve(img, kernel_5x5)$/;"	kind:variable	line:18
+k5	../scripts/hpf.py	/^k5 = ndimage.convolve(img, kernel5)$/;"	kind:variable	line:14
+kalman	../demo/Chapter_8_Code/kalman.py	/^kalman = cv2.KalmanFilter(4,2,1)$/;"	kind:variable	line:27
+kalman	../demo/Chapter_8_Code/kalman_camshift.py	/^kalman = cv2.KalmanFilter(4,2)$/;"	kind:variable	line:21
+kalman.py	../demo/Chapter_8_Code/kalman.py	1;"	kind:file	line:1
+kalman_camshift.py	../demo/Chapter_8_Code/kalman_camshift.py	1;"	kind:file	line:1
+kernel	../demo/Chapter_3_Code/skin.py	/^  kernel = cv2.getStructuringElement(cv2.MORPH_ELLIPSE, (4, 4))$/;"	kind:variable	line:21
+kernel	../demo/Chapter_5_Code/watershed.py	/^kernel = np.ones((3,3),np.uint8)$/;"	kind:variable	line:9
+kernel	../demo/Chapter_8_Code/basic_motion_detection.py	/^kernel = np.ones((5,5),np.uint8)$/;"	kind:variable	line:7
+kernel3	../scripts/hpf.py	/^kernel3 = np.array([[-1,-1,-1], [-1,8,-1], [-1,-1,-1]])$/;"	kind:variable	line:5
+kernel5	../scripts/hpf.py	/^kernel5 = np.array([[-1,-1,-1,-1,-1],$/;"	kind:variable	line:6
+kernel_3x3	../demo/Chapter_3_Code/hpf.py	/^kernel_3x3 = np.array([[-1, -1, -1],$/;"	kind:variable	line:5
+kernel_5x5	../demo/Chapter_3_Code/hpf.py	/^kernel_5x5 = np.array([[-1, -1, -1, -1, -1],$/;"	kind:variable	line:9
+key	../demo/Chapter_3_Code/skin.py	/^  key = cv2.waitKey(1000 \/ 12) & 0xff$/;"	kind:variable	line:30
+knn	../demo/Chapter_8_Code/knn.py	/^knn = cv2.createBackgroundSubtractorKNN(detectShadows = True)$/;"	kind:variable	line:4
+knn.py	../demo/Chapter_8_Code/knn.py	1;"	kind:file	line:1
+kp	../demo/Chapter_6_Code/brief.py	/^kp = star.detect(img,None)$/;"	kind:variable	line:16
+l_camera	../demo/Chapter_5_Code/disparity_video.py	/^l_camera = cv2.VideoCapture(0)$/;"	kind:variable	line:4
+l_hid	../demo/Chapter_9_Code/simple_ann2.py	/^l_hid = SigmoidLayer(6)$/;"	kind:variable	line:9
+l_in	../demo/Chapter_9_Code/simple_ann2.py	/^l_in = LinearLayer(4)$/;"	kind:variable	line:8
+l_out	../demo/Chapter_9_Code/simple_ann2.py	/^l_out = LinearLayer(3)$/;"	kind:variable	line:10
+lines	../demo/Chapter_3_Code/hough_lines.py	/^lines = cv2.HoughLinesP(edges,1,np.pi\/180,20,minLineLength,maxLineGap)$/;"	kind:variable	line:9
+lines	../scripts/houghvideo.py	/^        lines = cv2.HoughLinesP(dst, 1, math.pi\/180.0, 100, np.array([]), 50, 20)$/;"	kind:variable	line:24
+lines1	../demo/Chapter_5_Code/depth.py	/^lines1 = cv2.computeCorrespondEpilines(pts2.reshape(-1,1,2), 2,F)$/;"	kind:variable	line:73
+lines1	../demo/Chapter_5_Code/depth.py	/^lines1 = lines1.reshape(-1,3)$/;"	kind:variable	line:74
+lines2	../demo/Chapter_5_Code/depth.py	/^lines2 = cv2.computeCorrespondEpilines(pts1.reshape(-1,1,2), 1,F)$/;"	kind:variable	line:79
+lines2	../demo/Chapter_5_Code/depth.py	/^lines2 = lines2.reshape(-1,3)$/;"	kind:variable	line:80
+lk.py	../demo/Chapter_8_Code/lk.py	1;"	kind:file	line:1
+lk_params	../demo/Chapter_8_Code/lk.py	/^lk_params = dict( winSize  = (15,15),$/;"	kind:variable	line:13
+load_data	../demo/Chapter_9_Code/digits_ann.py	/^def load_data():$/;"	kind:function	line:15
+lower	../demo/Chapter_3_Code/skin.py	/^lower = np.array([0, 100, 0], dtype="uint8")$/;"	kind:variable	line:7
+magnitude_spectrum	../demo/Chapter_3_Code/fourier.py	/^magnitude_spectrum = 20 * np.log(np.abs(fshift))$/;"	kind:variable	line:8
+main	../demo/Chapter_8_Code/surveillance_demo/main.py	/^def main():$/;"	kind:function	line:98
+main.py	../demo/Chapter_8_Code/surveillance_demo/main.py	1;"	kind:file	line:1
+markers	../demo/Chapter_5_Code/watershed.py	/^markers = cv2.watershed(img,markers)$/;"	kind:variable	line:31
+markers	../demo/Chapter_5_Code/watershed.py	/^markers = markers+1$/;"	kind:variable	line:27
+mask	../demo/Chapter_5_Code/segmentation.py	/^mask = np.zeros(img.shape[:2],np.uint8)$/;"	kind:variable	line:6
+mask	../demo/Chapter_8_Code/camshift.py	/^mask = cv2.inRange(hsv_roi, np.array((100., 30.,32.)), np.array((180.,120.,255.)))$/;"	kind:variable	line:16
+mask	../demo/Chapter_8_Code/kalman_camshift.py	/^mask = cv2.inRange(hsv_roi, np.array((160., 30.,32.)), np.array((180.,120.,255.)))$/;"	kind:variable	line:16
+mask	../demo/Chapter_8_Code/lk.py	/^        mask = cv2.line(mask, (a,b),(c,d), color[i].tolist(), 2)$/;"	kind:variable	line:43
+mask	../demo/Chapter_8_Code/lk.py	/^mask = np.zeros_like(old_frame)$/;"	kind:variable	line:26
+mask	../demo/Chapter_8_Code/meanshift.py	/^mask = cv2.inRange(hsv_roi, np.array((100., 30.,32.)), np.array((180.,120.,255.)))$/;"	kind:variable	line:17
+mask2	../demo/Chapter_5_Code/segmentation.py	/^mask2 = np.where((mask==2)|(mask==0),0,1).astype('uint8')$/;"	kind:variable	line:14
+matcher	../demo/Chapter_7_Code/detect_hog_svm.py	/^matcher = cv2.FlannBasedMatcher(flann_params, {})$/;"	kind:variable	line:16
+matches	../demo/Chapter_5_Code/depth.py	/^matches = flann.knnMatch(des1,des2,k=2)$/;"	kind:variable	line:50
+matches	../demo/Chapter_6_Code/flann.py	/^matches = flann.knnMatch(des1,des2,k=2)$/;"	kind:variable	line:20
+matches	../demo/Chapter_6_Code/homography.py	/^matches = flann.knnMatch(des1,des2,k=2)$/;"	kind:variable	line:23
+matches	../demo/Chapter_6_Code/scan_for_matches.py	/^  matches = flann.knnMatch(query_ds, np.load(join(folder, d)), k =2)$/;"	kind:variable	line:40
+matchesMask	../demo/Chapter_6_Code/flann.py	/^                   matchesMask = matchesMask,$/;"	kind:variable	line:32
+matchesMask	../demo/Chapter_6_Code/flann.py	/^matchesMask = [[0,0] for i in xrange(len(matches))]$/;"	kind:variable	line:23
+matchesMask	../demo/Chapter_6_Code/homography.py	/^                   matchesMask = matchesMask, # draw only inliers$/;"	kind:variable	line:50
+matchesMask	../demo/Chapter_6_Code/homography.py	/^    matchesMask = None$/;"	kind:variable	line:46
+matchesMask	../demo/Chapter_6_Code/homography.py	/^    matchesMask = mask.ravel().tolist()$/;"	kind:variable	line:36
+maxLevel	../demo/Chapter_8_Code/lk.py	/^                  maxLevel = 2,$/;"	kind:variable	line:14
+maxLineGap	../demo/Chapter_3_Code/hough_lines.py	/^maxLineGap = 5$/;"	kind:variable	line:8
+max_matches	../demo/Chapter_6_Code/scan_for_matches.py	/^    max_matches = matches$/;"	kind:variable	line:56
+max_matches	../demo/Chapter_6_Code/scan_for_matches.py	/^max_matches = None$/;"	kind:variable	line:52
+meanshift.py	../demo/Chapter_8_Code/meanshift.py	1;"	kind:file	line:1
+measurement	../demo/Chapter_8_Code/kalman_camshift.py	/^measurement = np.array((2,1), np.float32) $/;"	kind:variable	line:26
+measurements	../demo/Chapter_8_Code/kalman.py	/^measurements = []$/;"	kind:variable	line:3
+minDisparity	../demo/Chapter_5_Code/disparity.py	/^        minDisparity = min_disp,$/;"	kind:variable	line:38
+minDistance	../demo/Chapter_8_Code/lk.py	/^                       minDistance = 7,$/;"	kind:variable	line:9
+minLineLength	../demo/Chapter_3_Code/hough_lines.py	/^minLineLength = 20$/;"	kind:variable	line:7
+min_disp	../demo/Chapter_5_Code/disparity.py	/^    min_disp = 16$/;"	kind:variable	line:20
+mog.py	../demo/Chapter_8_Code/mog.py	1;"	kind:file	line:1
+mousemove	../demo/Chapter_8_Code/kalman.py	/^def mousemove(event, x, y, s, p):$/;"	kind:function	line:9
+n_samples	../demo/Chapter_9_Code/digit_recognition.py	/^n_samples = len(digits.images)$/;"	kind:variable	line:27
+na	../scripts/pgm.py	/^na = np.array(ba)$/;"	kind:variable	line:8
+net	../demo/Chapter_9_Code/simple_ann2.py	/^net = FeedForwardNetwork()$/;"	kind:variable	line:6
+non_max_suppression_fast	../demo/Chapter_7_Code/car_detector/non_maximum.py	/^def non_max_suppression_fast(boxes, overlapThresh = 0.5):$/;"	kind:function	line:27
+non_maximum.py	../demo/Chapter_7_Code/car_detector/non_maximum.py	1;"	kind:file	line:1
+not_car_predict	../demo/Chapter_7_Code/detect_hog_svm.py	/^not_car_predict = predict(notcar)$/;"	kind:variable	line:55
+notcar_img	../demo/Chapter_7_Code/detect_hog_svm.py	/^notcar_img = cv2.imread(notcar)$/;"	kind:variable	line:53
+num0	../demo/Chapter_9_Code/basic_ann.py	/^num0 = [$/;"	kind:variable	line:9
+num1	../demo/Chapter_9_Code/basic_ann.py	/^num1 = [$/;"	kind:variable	line:31
+num4	../demo/Chapter_9_Code/basic_ann.py	/^num4 = [$/;"	kind:variable	line:20
+numDisparities	../demo/Chapter_5_Code/disparity.py	/^        numDisparities = num_disp,$/;"	kind:variable	line:39
+numDisparities	../demo/Chapter_5_Code/disparity_video.py	/^        numDisparities=16,$/;"	kind:variable	line:25
+num_disp	../demo/Chapter_5_Code/disparity.py	/^    num_disp = 192-min_disp$/;"	kind:variable	line:21
+old_gray	../demo/Chapter_8_Code/lk.py	/^    old_gray = frame_gray.copy()$/;"	kind:variable	line:53
+old_gray	../demo/Chapter_8_Code/lk.py	/^old_gray = cv2.cvtColor(old_frame, cv2.COLOR_BGR2GRAY)$/;"	kind:variable	line:22
+opening	../demo/Chapter_5_Code/watershed.py	/^opening = cv2.morphologyEx(thresh,cv2.MORPH_OPEN,kernel, iterations = 2)$/;"	kind:variable	line:10
+option	../scripts/aip_test.py	/^option = {$/;"	kind:variable	line:13
+overlaps	../demo/Chapter_7_Code/car_detector/non_maximum.py	/^def overlaps(a, b, thresh=0.5):$/;"	kind:function	line:7
+p0	../demo/Chapter_8_Code/lk.py	/^    p0 = good_new.reshape(-1,1,2)$/;"	kind:variable	line:54
+p0	../demo/Chapter_8_Code/lk.py	/^p0 = cv2.goodFeaturesToTrack(old_gray, mask = None, **feature_params)$/;"	kind:variable	line:23
+parser	../demo/Chapter_8_Code/surveillance_demo/main.py	/^parser = argparse.ArgumentParser()$/;"	kind:variable	line:21
+path	../demo/Chapter_7_Code/car_detector/detector.py	/^def path(cls,i):$/;"	kind:function	line:7
+path	../demo/Chapter_7_Code/detect_hog_svm.py	/^def path(cls,i):$/;"	kind:function	line:7
+path	../demo/Chapter_9_Code/digits_image_process.py	/^path = ".\/images\/numbers.jpg"$/;"	kind:variable	line:32
+people_detect_hog.py	../demo/Chapter_7_Code/people_detect_hog.py	1;"	kind:file	line:1
+pgm.py	../scripts/pgm.py	1;"	kind:file	line:1
+planets	../demo/Chapter_3_Code/hough_circles.py	/^planets = cv2.imread('planet_glow.jpg')$/;"	kind:variable	line:4
+potential_culprits	../demo/Chapter_6_Code/scan_for_matches.py	/^potential_culprits = {}$/;"	kind:variable	line:35
+potential_suspect	../demo/Chapter_6_Code/scan_for_matches.py	/^    potential_suspect = culprit$/;"	kind:variable	line:57
+potential_suspect	../demo/Chapter_6_Code/scan_for_matches.py	/^potential_suspect = None$/;"	kind:variable	line:53
+predict	../demo/Chapter_7_Code/detect_hog_svm.py	/^def predict(fn):$/;"	kind:function	line:44
+predict	../demo/Chapter_9_Code/digits_ann.py	/^def predict(ann, sample):$/;"	kind:function	line:69
+predicted	../demo/Chapter_9_Code/digit_recognition.py	/^predicted = classifier.predict(data[n_samples \/ 2:])$/;"	kind:variable	line:38
+prediction	../demo/Chapter_8_Code/kalman_camshift.py	/^        prediction = kalman.predict()$/;"	kind:variable	line:48
+prediction	../demo/Chapter_8_Code/kalman_camshift.py	/^prediction = np.zeros((2,1), np.float32)$/;"	kind:variable	line:27
+predictions	../demo/Chapter_8_Code/kalman.py	/^predictions = []$/;"	kind:variable	line:4
+pts	../demo/Chapter_6_Code/homography.py	/^    pts = np.float32([ [0,0],[0,h-1],[w-1,h-1],[w-1,0] ]).reshape(-1,1,2)$/;"	kind:variable	line:39
+pts	../demo/Chapter_8_Code/camshift.py	/^        pts = cv2.boxPoints(ret)$/;"	kind:variable	line:29
+pts	../demo/Chapter_8_Code/camshift.py	/^        pts = np.int0(pts)$/;"	kind:variable	line:30
+pts	../demo/Chapter_8_Code/kalman_camshift.py	/^        pts = cv2.boxPoints(ret)$/;"	kind:variable	line:43
+pts	../demo/Chapter_8_Code/kalman_camshift.py	/^        pts = np.int0(pts)$/;"	kind:variable	line:44
+pts1	../demo/Chapter_5_Code/depth.py	/^pts1 = []$/;"	kind:variable	line:53
+pts1	../demo/Chapter_5_Code/depth.py	/^pts1 = np.int32(pts1)$/;"	kind:variable	line:63
+pts1	../demo/Chapter_5_Code/depth.py	/^pts1 = pts1[mask.ravel()==1]$/;"	kind:variable	line:68
+pts2	../demo/Chapter_5_Code/depth.py	/^pts2 = []$/;"	kind:variable	line:54
+pts2	../demo/Chapter_5_Code/depth.py	/^pts2 = np.int32(pts2)$/;"	kind:variable	line:64
+pts2	../demo/Chapter_5_Code/depth.py	/^pts2 = pts2[mask.ravel()==1]$/;"	kind:variable	line:69
+pyramid	../demo/Chapter_7_Code/car_detector/pyramid.py	/^def pyramid(image, scale=1.5, minSize=(200, 80)):$/;"	kind:function	line:6
+pyramid.py	../demo/Chapter_7_Code/car_detector/pyramid.py	1;"	kind:file	line:1
+qualityLevel	../demo/Chapter_8_Code/lk.py	/^                       qualityLevel = 0.3,$/;"	kind:variable	line:8
+query	../demo/Chapter_6_Code/scan_for_matches.py	/^query = cv2.imread(join(folder, "tattoo_seed.jpg"), 0)$/;"	kind:variable	line:9
+queryImage	../demo/Chapter_6_Code/flann.py	/^queryImage = cv2.imread('images\/bathory_album.jpg',0)$/;"	kind:variable	line:5
+r_camera	../demo/Chapter_5_Code/disparity_video.py	/^r_camera = cv2.VideoCapture(1)$/;"	kind:variable	line:5
+radius	../demo/Chapter_3_Code/contours_2.py	/^  radius = int(radius)$/;"	kind:variable	line:27
+record	../demo/Chapter_9_Code/animals_ann.py	/^def record(sample, classification):$/;"	kind:function	line:43
+records	../demo/Chapter_9_Code/animals_ann.py	/^records = []$/;"	kind:variable	line:46
+rect	../demo/Chapter_3_Code/contours_2.py	/^  rect = cv2.minAreaRect(c)$/;"	kind:variable	line:15
+rect	../demo/Chapter_5_Code/segmentation.py	/^rect = (0,250,2422,1920)$/;"	kind:variable	line:11
+rectangles	../demo/Chapter_7_Code/car_sliding_windows.py	/^rectangles = []$/;"	kind:variable	line:24
+rectangles	../demo/Chapter_9_Code/digits_image_process.py	/^rectangles = []$/;"	kind:variable	line:40
+remote	../demo/Chapter_7_Code/car_sliding_windows.py	/^remote = "http:\/\/previews.123rf.com\/images\/aremac\/aremac0903\/aremac090300044\/4545419-Lonely-car-on-an-empty-parking-lot-Stock-Photo.jpg"$/;"	kind:variable	line:14
+resize	../demo/Chapter_7_Code/car_detector/pyramid.py	/^def resize(img, scaleFactor):$/;"	kind:function	line:3
+resp	../scripts/ip_video_test.py	/^    resp = urlopen("http:\/\/localhost:8081")$/;"	kind:variable	line:7
+result	../scripts/aip_test.py	/^result = aipFace.detect(get_file_content('..\/img\/paul1.jpg'), option)$/;"	kind:variable	line:18
+resultImage	../demo/Chapter_6_Code/flann.py	/^resultImage = cv2.drawMatchesKnn(queryImage,kp1,trainingImage,kp2,matches,None,**drawParams)$/;"	kind:variable	line:35
+roi	../demo/Chapter_8_Code/camshift.py	/^roi = frame[r:r+h, c:c+w]$/;"	kind:variable	line:14
+roi	../demo/Chapter_8_Code/kalman_camshift.py	/^roi = frame[r:r+h, c:c+w]$/;"	kind:variable	line:14
+roi	../demo/Chapter_8_Code/meanshift.py	/^roi = frame[r:r+h, c:c+w]$/;"	kind:variable	line:13
+roi	../demo/Chapter_9_Code/digits_image_process.py	/^  roi = thbw[y:y+h, x:x+w]$/;"	kind:variable	line:59
+roi_hist	../demo/Chapter_8_Code/camshift.py	/^roi_hist = cv2.calcHist([hsv_roi],[0],mask,[180],[0,180])$/;"	kind:variable	line:17
+roi_hist	../demo/Chapter_8_Code/kalman_camshift.py	/^roi_hist = cv2.calcHist([hsv_roi],[0],mask,[180],[0,180])$/;"	kind:variable	line:17
+roi_hist	../demo/Chapter_8_Code/meanshift.py	/^roi_hist = cv2.calcHist([hsv_roi],[0],mask,[180],[0,180])$/;"	kind:variable	line:19
+save_descriptor	../demo/Chapter_6_Code/generate_descriptors.py	/^def save_descriptor(folder, image_path, feature_detector):$/;"	kind:function	line:15
+scale	../demo/Chapter_7_Code/car_sliding_windows.py	/^scale = 1$/;"	kind:variable	line:27
+scaleFactor	../demo/Chapter_7_Code/car_sliding_windows.py	/^scaleFactor = 1.25$/;"	kind:variable	line:26
+scan_for_matches.py	../demo/Chapter_6_Code/scan_for_matches.py	1;"	kind:file	line:1
+searchParams	../demo/Chapter_6_Code/flann.py	/^searchParams = dict(checks=50)   # or pass empty dictionary$/;"	kind:variable	line:16
+search_params	../demo/Chapter_5_Code/depth.py	/^search_params = dict(checks=50)$/;"	kind:variable	line:47
+search_params	../demo/Chapter_6_Code/homography.py	/^search_params = dict(checks = 50)$/;"	kind:variable	line:19
+search_params	../demo/Chapter_6_Code/scan_for_matches.py	/^search_params = dict(checks = 50)$/;"	kind:variable	line:29
+segmentation.py	../demo/Chapter_5_Code/segmentation.py	1;"	kind:file	line:1
+servo	../scripts/face_detection.py	/^    servo = serial.Serial('\/dev\/ttyACM0', 115200)$/;"	kind:variable	line:47
+sift	../demo/Chapter_5_Code/depth.py	/^sift = cv2.xfeatures2d.SIFT_create()$/;"	kind:variable	line:38
+sift	../demo/Chapter_6_Code/flann.py	/^sift = cv2.xfeatures2d.SIFT_create()$/;"	kind:variable	line:9
+sift	../demo/Chapter_6_Code/homography.py	/^sift = cv2.xfeatures2d.SIFT_create()$/;"	kind:variable	line:11
+sift	../demo/Chapter_6_Code/scan_for_matches.py	/^sift = cv2.xfeatures2d.SIFT_create()$/;"	kind:variable	line:23
+sift	../demo/Chapter_6_Code/sift.py	/^sift = cv2.xfeatures2d.SIFT_create()$/;"	kind:variable	line:10
+sift.py	../demo/Chapter_6_Code/sift.py	1;"	kind:file	line:1
+simple_ann.py	../demo/Chapter_9_Code/simple_ann.py	1;"	kind:file	line:1
+simple_ann2.py	../demo/Chapter_9_Code/simple_ann2.py	1;"	kind:file	line:1
+singlePointColor	../demo/Chapter_6_Code/flann.py	/^                   singlePointColor = (255,0,0),$/;"	kind:variable	line:31
+singlePointColor	../demo/Chapter_6_Code/homography.py	/^                   singlePointColor = None,$/;"	kind:variable	line:49
+skin	../demo/Chapter_3_Code/skin.py	/^  skin = cv2.bitwise_and(frame, frame, mask = skinMask)$/;"	kind:variable	line:27
+skin.py	../demo/Chapter_3_Code/skin.py	1;"	kind:file	line:1
+skinMask	../demo/Chapter_3_Code/skin.py	/^  skinMask = cv2.GaussianBlur(skinMask, (9, 9), 0)$/;"	kind:variable	line:19
+skinMask	../demo/Chapter_3_Code/skin.py	/^  skinMask = cv2.GaussianBlur(skinMask, (9, 9), 0)$/;"	kind:variable	line:25
+skinMask	../demo/Chapter_3_Code/skin.py	/^  skinMask = cv2.inRange(hsv, lower, upper)$/;"	kind:variable	line:17
+skinMask	../demo/Chapter_3_Code/skin.py	/^  skinMask = cv2.morphologyEx(skinMask, cv2.MORPH_CLOSE, kernel, iterations = 3)$/;"	kind:variable	line:23
+sliding_window	../demo/Chapter_7_Code/car_detector/sliding_window.py	/^def sliding_window(image, stepSize, windowSize):$/;"	kind:function	line:1
+sliding_window.py	../demo/Chapter_7_Code/car_detector/sliding_window.py	1;"	kind:file	line:1
+speckleRange	../demo/Chapter_5_Code/disparity.py	/^        speckleRange = speckleRange,$/;"	kind:variable	line:42
+speckleRange	../demo/Chapter_5_Code/disparity.py	/^    speckleRange = 3$/;"	kind:variable	line:24
+speckleRange	../demo/Chapter_5_Code/disparity_video.py	/^        speckleRange = 32,$/;"	kind:variable	line:29
+speckleWindowSize	../demo/Chapter_5_Code/disparity.py	/^        speckleWindowSize = speckleWindowSize,$/;"	kind:variable	line:43
+speckleWindowSize	../demo/Chapter_5_Code/disparity.py	/^    speckleWindowSize = 3$/;"	kind:variable	line:25
+speckleWindowSize	../demo/Chapter_5_Code/disparity_video.py	/^        speckleWindowSize = 10,$/;"	kind:variable	line:28
+src_pts	../demo/Chapter_6_Code/homography.py	/^    src_pts = np.float32([ kp1[m.queryIdx].pt for m in good ]).reshape(-1,1,2)$/;"	kind:variable	line:32
+star	../demo/Chapter_6_Code/brief.py	/^star = cv2.FeatureDetector_create("STAR")$/;"	kind:variable	line:10
+stereo	../demo/Chapter_5_Code/disparity.py	/^    stereo = cv2.StereoSGBM_create($/;"	kind:variable	line:37
+stereo	../demo/Chapter_5_Code/disparity_video.py	/^    stereo = cv2.StereoSGBM_create(minDisparity=1,$/;"	kind:variable	line:24
+sure_bg	../demo/Chapter_5_Code/watershed.py	/^sure_bg = cv2.dilate(opening,kernel,iterations=3)$/;"	kind:variable	line:13
+sure_fg	../demo/Chapter_5_Code/watershed.py	/^sure_fg = np.uint8(sure_fg)$/;"	kind:variable	line:20
+svm	../demo/Chapter_7_Code/detect_hog_svm.py	/^svm = cv2.ml.SVM_create()$/;"	kind:variable	line:41
+term_crit	../demo/Chapter_8_Code/camshift.py	/^term_crit = ( cv2.TERM_CRITERIA_EPS | cv2.TERM_CRITERIA_COUNT, 10, 1 )$/;"	kind:variable	line:19
+term_crit	../demo/Chapter_8_Code/kalman_camshift.py	/^term_crit = ( cv2.TERM_CRITERIA_EPS | cv2.TERM_CRITERIA_COUNT, 10, 1 )$/;"	kind:variable	line:19
+term_crit	../demo/Chapter_8_Code/meanshift.py	/^term_crit = ( cv2.TERM_CRITERIA_EPS | cv2.TERM_CRITERIA_COUNT, 10, 1 )$/;"	kind:variable	line:23
+test	../demo/Chapter_9_Code/digits_ann.py	/^def test(ann, test_data):$/;"	kind:function	line:63
+test_image	../demo/Chapter_7_Code/car_sliding_windows.py	/^test_image = "\/home\/d3athmast3r\/dev\/python\/study\/images\/cars.jpg"$/;"	kind:variable	line:12
+th	../demo/Chapter_8_Code/mog.py	/^  th = cv2.erode(th, cv2.getStructuringElement(cv2.MORPH_ELLIPSE, (3,3)), iterations = 2)$/;"	kind:variable	line:11
+th	../demo/Chapter_8_Code/mog.py	/^  th = cv2.threshold(fgmask.copy(), 244, 255, cv2.THRESH_BINARY)[1]$/;"	kind:variable	line:10
+thbw	../demo/Chapter_9_Code/digits_image_process.py	/^thbw = cv2.erode(thbw, np.ones((2,2), np.uint8), iterations = 2)$/;"	kind:variable	line:37
+to_uint8	../demo/Chapter_5_Code/depth.py	/^def to_uint8( data ) :$/;"	kind:function	line:5
+track_window	../demo/Chapter_8_Code/camshift.py	/^track_window = (c,r,w,h)$/;"	kind:variable	line:11
+track_window	../demo/Chapter_8_Code/kalman_camshift.py	/^track_window = (c,r,w,h)$/;"	kind:variable	line:11
+track_window	../demo/Chapter_8_Code/meanshift.py	/^track_window = (c,r,w,h)$/;"	kind:variable	line:10
+train	../demo/Chapter_9_Code/digits_ann.py	/^def train(ann, samples = 10000, epochs = 1):$/;"	kind:function	line:45
+train_data	../demo/Chapter_9_Code/basic_ann.py	/^train_data = [$/;"	kind:variable	line:43
+trainer	../demo/Chapter_9_Code/simple_ann2.py	/^trainer = BackpropTrainer(net, dataset)$/;"	kind:variable	line:33
+trainingImage	../demo/Chapter_6_Code/flann.py	/^trainingImage = cv2.imread('images\/vinyls.jpg',0)$/;"	kind:variable	line:6
+uniquenessRatio	../demo/Chapter_5_Code/disparity.py	/^        uniquenessRatio = uniquenessRatio,$/;"	kind:variable	line:41
+uniquenessRatio	../demo/Chapter_5_Code/disparity.py	/^    uniquenessRatio = 1$/;"	kind:variable	line:23
+unknown	../demo/Chapter_5_Code/watershed.py	/^unknown = cv2.subtract(sure_bg,sure_fg)$/;"	kind:variable	line:21
+update	../demo/Chapter_5_Code/disparity.py	/^def update(val = 0):$/;"	kind:function	line:4
+update	../demo/Chapter_8_Code/surveillance_demo/main.py	/^  def update(self, frame):$/;"	kind:member	line:64
+upper	../demo/Chapter_3_Code/skin.py	/^upper = np.array([50,255,255], dtype="uint8")$/;"	kind:variable	line:8
+vectorized_result	../demo/Chapter_9_Code/digits_ann.py	/^def vectorized_result(j):$/;"	kind:function	line:32
+voc	../demo/Chapter_7_Code/detect_hog_svm.py	/^voc = bow_kmeans_trainer.cluster()$/;"	kind:variable	line:29
+watershed.py	../demo/Chapter_5_Code/watershed.py	1;"	kind:file	line:1
+window_size	../demo/Chapter_5_Code/disparity.py	/^    window_size = 5$/;"	kind:variable	line:19
+windows	../demo/Chapter_7_Code/car_sliding_windows.py	/^windows = np.array(rectangles)$/;"	kind:variable	line:52
+wrap_data	../demo/Chapter_9_Code/digits_ann.py	/^def wrap_data():$/;"	kind:function	line:21
+wrap_digit	../demo/Chapter_9_Code/digits_image_process.py	/^def wrap_digit(rect):$/;"	kind:function	line:13
+x	../scripts/houghvideo.py	/^            x = int((xl + xr)\/2)$/;"	kind:variable	line:45
+xl	../scripts/houghvideo.py	/^                        xl = (x1+x2)\/2$/;"	kind:variable	line:39
+xl	../scripts/houghvideo.py	/^        xl = 0$/;"	kind:variable	line:29
+xr	../scripts/houghvideo.py	/^                        xr = (x1+x2)\/2$/;"	kind:variable	line:43
+xr	../scripts/houghvideo.py	/^        xr = 0$/;"	kind:variable	line:30
